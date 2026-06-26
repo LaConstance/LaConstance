@@ -36,8 +36,8 @@ Compilée, fonctionnelle, scriptée ou web : j'aime choisir l'outil parfait pour
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=LaConstance&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Stats de LaConstance" height="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=LaConstance&theme=tokyonight&hide_border=false" alt="Streak de LaConstance" height="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=LaConstance&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Stats de LaConstance" height="38%"/>
+  <img src="https://streak-stats.demolab.com/?user=LaConstance&theme=tokyonight&hide_border=false" alt="Streak de LaConstance" height="38%"/>
 </p>
 
 <p align="center">
