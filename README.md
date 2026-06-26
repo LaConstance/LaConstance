@@ -4,18 +4,18 @@
 
 Hi! I chose **LaConstance** as my pseudonym simply because it's one of my middle names (*"not very original, I know"* 😅). But beyond that, it’s a trait I deeply strive for: consistency in my efforts, consistency in my practice.
 
-I love exploring out of pure curiosity, because it’s the one thing that depends entirely on my own perspective. I’m mainly interested in AI & Machine Learning.
+I love exploring out of pure curiosity, because it’s the one thing that depends entirely on my own perspective, and right now that curiosity is focused on AI & Machine Learning.
 
-I always skip the tutorial...
+I'm currently a student at Paris Dauphine.
 
 <details>
 <summary><b>🇫🇷 Version française</b></summary>
   
 Salut ! J'ai choisi **LaConstance** comme pseudonyme parce que c'est tout simplement mon 3ème prénom (*"je sais, pas très original"* 😅). Mais au-delà de ça, c'est une valeur à laquelle j'aspire profondément : la constance dans l'effort, la régularité dans la pratique.
 
-J'aime explorer par curiosité car c'est la seule chose qui dépend entièrement de mon regard. Intéressée par l'IA, le machine learning principalement.
+J'aime explorer par curiosité car c'est la seule chose qui dépend entièrement de mon regard. En ce moment, je l'oriente principalement vers l'IA et le Machine Learning.
 
-Je skip toujours le tutoriel...
+Je suis actuellement étudiante à Paris Dauphine.
 
 </details>
 
@@ -42,12 +42,4 @@ Compilée, fonctionnelle, scriptée ou web : j'aime choisir l'outil parfait pour
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LaConstance&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages de LaConstance" width="60%"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=LaConstance" alt="Compteur de visites"/>
-  </a>
 </p>
